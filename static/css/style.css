@@ -1,11 +1,11 @@
 body {
 
     color: #2a2b25;
-    background-color: rgb(56, 66, 205);
+    background-color: rgb(249, 250, 250);
 }
 
 .jumbotron {
-    background-image: url("../images/microbac.jpg");
+    background-image: url("C:\Users\migue\OneDrive\Escritorio\MSU\bootcamp\12_Plotly\Plotly\Resources\bacteria.jpg");
     background-size: 100% 100%;
     text-align: center;
   }
